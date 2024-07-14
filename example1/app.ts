@@ -1,6 +1,6 @@
 import * as http from "http";
 
-const port = 5001; // ポート番号
+const port = 80; // ポート番号
 
 // httpサーバーを設定する
 const server = http.createServer(
